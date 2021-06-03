@@ -1,6 +1,6 @@
 function GuestList(props) {
 
-    console.log('log props in GuestList', props);
+    // console.log('log props in GuestList', props);
 
 
     return (
